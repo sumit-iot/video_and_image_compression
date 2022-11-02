@@ -1,0 +1,17 @@
+{
+    "new_size_ratio": 0.5,
+    "quality": 70 ,
+    "width" : 360,
+    "height" : 620,
+    "input_file_image" :"D:/compress video and image/inputimage/a.jpg",
+    "output_file_image" :"D:/compress video and image/outputimage",
+    "input_video_file":"D:/compress video and image/input_video/b.mp4",
+    "output_video_file":"D:/compress video and image/output_video/d.mp4",
+    "total_bitrate_lower_bound" : 11000,
+    "min_audio_bitrate" : 32000,
+    "max_audio_bitrate" : 256000,
+    "min_video_bitrate" : 100000,
+    "size_upper_bound" : 10  ,
+    "extension" : ".mp4"
+
+}
